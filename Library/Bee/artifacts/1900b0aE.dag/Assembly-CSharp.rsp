@@ -354,8 +354,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/3D_Assets/Quirky Series - Birds Bundle/_Scripts/Demo.cs"
+"Assets/hitDestroy.cs"
+"Assets/Scripts/GameManager.cs"
 "Assets/Scripts/LevelSelect.cs"
+"Assets/Scripts/platformerController.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/roamer.cs"
 -langversion:9.0
 
 /deterministic
