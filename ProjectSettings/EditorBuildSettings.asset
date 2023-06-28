@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level 4.unity
     guid: 328ad794f6f049342bd03d17165568ab
+  - enabled: 1
+    path: Assets/Scenes/GameMovementTesting.unity
+    guid: 7394b8951d484094d8b8eeeeaab0ea01
   m_configObjects: {}

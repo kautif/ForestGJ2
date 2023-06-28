@@ -3,7 +3,12 @@ guid: 9bcd2b8bd49805643afe03999a39bba4
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - levelConfirm: {instanceID: 0}
+  - player: {instanceID: 0}
+  - levelText: {instanceID: 0}
+  - levelComplete: {fileID: 2100000, guid: 06502a6363df93d40941ad5bd80e4c59, type: 2}
+  - levelStartImg: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
